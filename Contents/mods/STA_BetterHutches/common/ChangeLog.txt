@@ -55,3 +55,6 @@
 [ Version 1.2.2 ]
 - Fixed error when cleaning hutch with no mod data
 [ ------ ]
+[ Version 1.2.3 ]
+- Fixed MP clients attempting to run server functions
+[ ------ ]

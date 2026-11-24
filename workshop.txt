@@ -25,8 +25,9 @@ description=[*]Indonesian (Thanks to Pal)
 description=[*]Brazilian Portuguese (Thanks to [url=https://steamcommunity.com/id/leozimmelo]Leozimmelo[/url])[/list]
 description=[hr][/hr][h2] Compatibility [/h2]
 description=[table][tr][th]Version[/th][th]Singleplayer[/th][th]Multiplayer[/th][/tr]
-description=[tr][td]Stable (b42.20.2)[/td][td]✅[/td][td]✅[/td][/tr]
-description=[tr][td]42.19 (b42.19.1)[/td][td]✅[/td][td]✅[/td][/tr]
+description=[tr][td]Stable (b42.22.2)[/td][td]✅[/td][td]✅[/td][/tr]
+description=[tr][td]42.21 (b42.21.0)[/td][td]✅[/td][td]✅[/td][/tr]
+description=[tr][td]42.19 (b42.19.2)[/td][td]✅[/td][td]✅[/td][/tr]
 description=[tr][td]Legacy41 (b41.78.20)[/td][td]❌[/td][td]❌[/td][/tr][/table]
 description=
 description=[h3] Show Your Support or Come Say Hello [/h3]

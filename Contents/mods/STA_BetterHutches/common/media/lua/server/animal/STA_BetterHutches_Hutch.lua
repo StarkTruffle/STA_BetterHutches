@@ -57,7 +57,7 @@ local function onEveryOneMinute()
     end
 end
 
-Events.EveryOneMinute.Add(onEveryOneMinute)
+if not isClient() then Events.EveryOneMinute.Add(onEveryOneMinute) end
 
 _G.STA_BetterHutches_Hutch = Hutch
 return Hutch

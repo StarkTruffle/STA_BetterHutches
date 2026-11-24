@@ -22,9 +22,10 @@ This mod allows woodchips to be added to chicken hutches to reduce the rate of d
 
 | Version | Singleplayer | Multiplayer |
 | ------- | ------------ | ----------- |
-| b42.20.2 | ✅ | ✅ |
-| b42.19.1 | ✅ | ✅ |
-| b41.78.20 | ❌ | ❌ |
+| b42.22.2 | ✅ | ✅ |
+| b42.21.0 | ✅ | ✅ |
+| b42.19.2 | ✅ | ✅ |
+| b41.78.21 | ❌ | ❌ |
 
 ---
 
